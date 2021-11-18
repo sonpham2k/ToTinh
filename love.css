@@ -1,0 +1,77 @@
+body {
+    margin: 50px auto;
+    text-align: center;
+    width: 800px;
+    background-size: cover;
+}
+
+label {
+    font-family: 'Times New Roman';
+    margin-right: 20px;
+    padding: 9px;
+}
+
+.dolove {
+    text-align: center;
+    font-size: 3rem;
+    color: rgb(233, 7, 7);
+    margin: 50px;
+ 
+}
+
+.howdo {
+    text-align: center;
+    font-size: 1.6rem;
+    color: rgb(253, 253, 253);
+    margin-top: 50px;
+}
+
+button {
+    font-size: 1.3rem;
+    margin-top: 120px;
+    border-radius: 10px;
+    height: 80px;
+    cursor: pointer;
+    position: absolute;
+    
+}
+
+.yes {
+    background-color: rgb(183, 235, 183);
+}
+
+.no {
+    background-color: rgb(241, 11, 11);
+    width: 172px;
+    right: 50%;
+}
+
+.labelNhap {
+    border: 1px solid white;
+    width: 300px;
+    display: inline-block;
+    text-align: left;
+    font-size: 1.1rem;
+    
+}
+
+.input {
+    border: 1px solid white;
+    width: 50px;
+    height: 30px;
+    color: white;
+    background-color: rgb(73, 143, 73);
+    margin: 20px;
+    cursor: pointer;
+    border-radius: 10px;
+    
+}
+
+form {
+    background-color: white;
+    width: 350px;
+    margin: 200px;
+
+}
+
+
